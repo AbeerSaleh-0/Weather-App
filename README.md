@@ -8,4 +8,4 @@ This is a simple weather application that allows users to check the current weat
 - CSS
 - JavaScript
 ### API Used
--OpenWeatherMap API: This application uses the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve current weather data.
+- OpenWeatherMap API: This application uses the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve current weather data.
